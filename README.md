@@ -1,4 +1,4 @@
-![logo](White&Black
+![logo](banner.png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=harlow+solid+italic&pause=1000&color=FF1E11&width=435&lines=%22Hi%2C+I%E2%80%99m+Sumaiya+Azmat.;Nice+to+have+you+around!" alt="Typing SVG" /></a>
 <h1 align="center">Welcome😏 to my Github profile!</h1>
 <h3 align="center">A passionate programmer from Pakistan.</h3>
